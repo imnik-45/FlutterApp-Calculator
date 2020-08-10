@@ -1,6 +1,6 @@
-# calci
+# Calculator
 
-A new Flutter project.
+A Simple Calculator in Flutter.
 
 ## Getting Started
 
